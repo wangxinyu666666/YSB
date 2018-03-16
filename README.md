@@ -8,7 +8,7 @@
 
 ## 部署
     git clone https://github.com/wangxinyu666666/YSB.git  
-    cd vue2-elm
+    cd YSB
     npm install
     npm run dev
 
